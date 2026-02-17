@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm [Your Name] ✨</h1>
+<h1 align="center">✨ Hi, I'm Andres Forero ✨</h1>
 <h3 align="center">Game Developer • Full Stack Developer • Programmer 🚀</h3>
 
 <p align="center">
@@ -58,31 +58,29 @@
 ---
 
 ## 🎮 Featured Projects
-✨ **[Project Name]**  
-📝 Short description of the project and your role  
-🔗 [Repository](https://github.com/yourusername/your-repo)
+✨ 2D Car Racing RPG  
+A top-down 2D car racing game made in Unity where cars don’t just race — they also fight using a dice-based RPG system 🎲.
 
-✨ **[Another Project]**  
-📝 What it does and what technologies were used  
-🔗 [Repository](https://github.com/yourusername/another-repo)
+Each race mixes speed, strategy, and luck, combining arcade racing with simple RPG mechanics.
+This project was developed independently as a learning experience and represents my first complete game made in Unity.
+🔗 [Repository]([https://github.com/yourusername/your-repo](https://github.com/AndresFForeroP/Rpg-Car-Game-2D-Unity.git))
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresFForeroP&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresFForeroP&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🌐 Connect with Me
-💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)  
-🎮 itch.io: [Your itch.io](https://yourusername.itch.io)  
-🐦 Twitter/X: [@yourusername](https://twitter.com/yourusername)
+💼 LinkedIn: [Your LinkedIn]((https://www.linkedin.com/in/andres-forero-p%C3%A9rez-34a4563aa/))  
+🎮 itch.io: [Your itch.io]((https://andresforero.itch.io/))  
 
 ---
 
