@@ -30,6 +30,10 @@
 
 ### 🌐 Frontend
 <p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -51,19 +55,22 @@
 
 ## 🎯 Experience & Roles
 - 🧠 Experience using **Entity Framework with .NET and C#** for database-driven applications  
-- 🌐 Built web applications with **React, Next.js, and Tailwind CSS**  
-- 🗄️ Designed and managed databases using **MySQL** and **PostgreSQL**  
-- 📋 Participated in several **academic projects as Scrum Master**, coordinating teams, planning sprints, and ensuring agile best practices
+- 🌐 Built web applications using **HTML, CSS, JavaScript, TypeScript, React, Next.js, and Tailwind CSS**  
+- 🗄️ Designed and managed databases with **MySQL** and **PostgreSQL**  
+- 📋 Participated in several **academic projects as Scrum Master**, coordinating teams, planning sprints, and applying agile best practices
 
 ---
 
 ## 🎮 Featured Projects
-✨ 2D Car Racing RPG  
+
+### 🚗 2D Car Racing RPG
 A top-down 2D car racing game made in Unity where cars don’t just race — they also fight using a dice-based RPG system 🎲.
 
-Each race mixes speed, strategy, and luck, combining arcade racing with simple RPG mechanics.
+Each race mixes speed, strategy, and luck, combining arcade racing with simple RPG mechanics.  
 This project was developed independently as a learning experience and represents my first complete game made in Unity.
-🔗 [Repository]([https://github.com/yourusername/your-repo](https://github.com/AndresFForeroP/Rpg-Car-Game-2D-Unity.git))
+
+🔗 **Repository:**  
+https://github.com/AndresFForeroP/Rpg-Car-Game-2D-Unity
 
 ---
 
@@ -79,8 +86,11 @@ This project was developed independently as a learning experience and represents
 ---
 
 ## 🌐 Connect with Me
-💼 LinkedIn: [Your LinkedIn]((https://www.linkedin.com/in/andres-forero-p%C3%A9rez-34a4563aa/))  
-🎮 itch.io: [Your itch.io]((https://andresforero.itch.io/))  
+💼 LinkedIn:  
+https://www.linkedin.com/in/andres-forero-p%C3%A9rez-34a4563aa/
+
+🎮 itch.io:  
+https://andresforero.itch.io/
 
 ---
 
