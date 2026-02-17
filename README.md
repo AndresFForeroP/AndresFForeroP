@@ -8,9 +8,9 @@
 ---
 
 ## 💖 About Me
-🌸 I’m a passionate developer who enjoys building interactive, creative, and scalable solutions.  
-🎮 I work with **Unity** for game development and **Full Stack technologies** for web applications.  
-✨ I love learning new technologies, collaborating in teams, and improving both technical and soft skills.
+I’m a passionate developer who enjoys building interactive, creative, and scalable solutions.  
+I work with **Unity** for game development and **Full Stack technologies** for web applications.  
+I enjoy learning new technologies, collaborating in teams, and continuously improving both technical and soft skills.
 
 ---
 
@@ -54,14 +54,14 @@
 ---
 
 ## 🎯 Experience & Roles
-- 🧠 Experience using **Entity Framework with .NET and C#** for database-driven applications  
-- 🌐 Built web applications using **HTML, CSS, JavaScript, TypeScript, React, Next.js, and Tailwind CSS**  
-- 🗄️ Designed and managed databases with **MySQL** and **PostgreSQL**  
-- 📋 Participated in several **academic projects as Scrum Master**, coordinating teams, planning sprints, and applying agile best practices
+- Experience using **Entity Framework with .NET and C#** for database-driven applications  
+- Built web applications using **HTML, CSS, JavaScript, TypeScript, React, Next.js, and Tailwind CSS**  
+- Designed and managed databases with **MySQL** and **PostgreSQL**  
+- Participated in several **academic projects as Scrum Master**, coordinating teams, planning sprints, and applying agile best practices  
 
 ---
 
-## 🎮 Featured Projects
+## 🎮 Featured Project
 
 ### 🚗 2D Car Racing RPG
 A top-down 2D car racing game made in Unity where cars don’t just race — they also fight using a dice-based RPG system 🎲.
@@ -69,18 +69,20 @@ A top-down 2D car racing game made in Unity where cars don’t just race — the
 Each race mixes speed, strategy, and luck, combining arcade racing with simple RPG mechanics.  
 This project was developed independently as a learning experience and represents my first complete game made in Unity.
 
-🔗 **Repository:**  
+🔗 Repository:  
 https://github.com/AndresFForeroP/Rpg-Car-Game-2D-Unity
+🎮 itch.io game:
+https://andresforero.itch.io/car-game-rpg
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresFForeroP&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresFForeroP&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresFForeroP&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresFForeroP&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
