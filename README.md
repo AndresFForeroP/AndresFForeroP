@@ -64,6 +64,10 @@ I enjoy learning new technologies, collaborating in teams, and continuously impr
 ## 🎮 Featured Project
 
 ### 🚗 2D Car Racing RPG
+<p align="center">
+  <img src="media/gameplay.gif" width="600"/>
+</p>
+
 A top-down 2D car racing game made in Unity where cars don’t just race — they also fight using a dice-based RPG system 🎲.
 
 Each race mixes speed, strategy, and luck, combining arcade racing with simple RPG mechanics.  
