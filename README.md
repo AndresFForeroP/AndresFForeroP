@@ -82,10 +82,10 @@ https://andresforero.itch.io/car-game-rpg
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresFForeroP&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&rank_icon=github" />
+  <img src="https://github-readme-stats-vercel-swart.vercel.app/api?username=AndresFForeroP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresFForeroP&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-vercel-swart.vercel.app/api/top-langs/?username=AndresFForeroP&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndresFForeroP&theme=tokyonight&hide_border=true" />
